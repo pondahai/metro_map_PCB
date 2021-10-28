@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name metro_map)(type KiCad)(uri /Users/test/Dropbox/kicad/metro_map)(options "")(descr ""))
+)
